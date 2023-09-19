@@ -5,25 +5,25 @@ Customer churn, also known as customer attrition, refers to the tendency of clie
 I build a model using logistics regression machine learning approaches to predict the best outcome.
 
 DATASE STRUCTURE
-This is a public dataset; the format is listed below.
-There are 10000 rows and 14 different columns in the dataset.
-Exited is the target column in this case.
+1. This is a public dataset; the format is listed below.
+2. There are 10000 rows and 14 different columns in the dataset.
+3. Exited is the target column in this case.
 
 VARIABLE MEANING
 The following data dictionary contains information on all of the columns:
-Variable	Definition
-RowNumber :Unique Row Number
-CustomerId :	Unique Customer Id
-Surname:	Surname of a customer
-CreditScore:	Credit Score of each Customer
-Geography:	Geographical Location of Customers
-City_Category:	Category of the City (A,B,C)
-Gender:	Sex of Customers
-Age:	Age of Each Customer
-Tenure:	Number of years
-Balance:	Current Balance of Customers
-NumOfProducts:	Number of Products
-HasCrCard:	If a customer has a credit card or not
-IsActiveMember:	If a customer is active or not
-EstimatedSalary:	Estimated Salary of each Customer
-Exited:	Customer left the bank or Not (Target Variable)
+* Variable	Definition
+* RowNumber :Unique Row Number
+* CustomerId :	Unique Customer Id
+* Surname:	Surname of a customer
+* CreditScore:	Credit Score of each Customer
+* Geography:	Geographical Location of Customers
+* City_Category:	Category of the City (A,B,C)
+* Gender:	Sex of Customers
+* Age:	Age of Each Customer
+* Tenure:	Number of years
+* Balance:	Current Balance of Customers
+* NumOfProducts:	Number of Products
+* HasCrCard:	If a customer has a credit card or not
+* IsActiveMember:	If a customer is active or not
+* EstimatedSalary:	Estimated Salary of each Customer
+* Exited:	Customer left the bank or Not (Target Variable)
